@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tanima Hossain</h1>
 <p align="center">Competitive programming taught me to think critically, approach problems creatively, and optimize solutions. This foundation, coupled with 2+ years of full-stack engineering experience in JavaScript (TypeScript), Node.js (Express.js), Sanity (headless CMS), Next.js, Tailwind CSS, and PostgreSQL/Knex, allows me to translate complex challenges into elegant and scalable real-world applications. I'm a collaborative learner, enthusiastic about pushing boundaries and exceeding expectations while being a driven team player eager to contribute my skillset and learning agility to your vision</p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanimahossain&label=Profile%20views&color=0e75b6&style=flat" alt="tanimahossain" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanimahossain&label=Profile%20views&color=0e75b6&style=flat" alt="tanimahossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanimahossain" alt="tanimahossain" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanimahossain" alt="tanimahossain" /></a> </p> -->
 
 - 🔭 I’m currently working on [House Of Math](houseofmath.com)
 
