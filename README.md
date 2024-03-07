@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tanima Hossain</h1>
-<p align="center">Competitive programming taught me to think critically, approach problems creatively, and optimize solutions. This foundation, coupled with 2+ years of full-stack engineering experience in JavaScript (TypeScript), Node.js (Express.js), Sanity (headless CMS), Next.js, Tailwind CSS, and PostgreSQL/Knex, allows me to translate complex challenges into elegant and scalable real-world applications. I'm a collaborative learner, enthusiastic about pushing boundaries and exceeding expectations while being a driven team player eager to contribute my skillset and learning agility to your vision</p>
+<p align="center">Competitive programming taught me to think critically, approach problems creatively, and optimize solutions. This foundation, coupled with 2+ years of full-stack engineering experience in JavaScript (TypeScript), Node.js (Express.js), Sanity (headless CMS), Next.js, Tailwind CSS, and PostgreSQL/Knex, allows me to translate complex challenges into elegant and scalable real-world applications. I'm a collaborative learner, enthusiastic about pushing boundaries and exceeding expectations while being a driven team player eager to contribute my skillset and learning agility to improve my skills and push past my boundaries.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanimahossain&label=Profile%20views&color=0e75b6&style=flat" alt="tanimahossain" /> </p>
 
