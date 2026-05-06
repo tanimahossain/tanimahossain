@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  I am an AI Research Engineer at <strong>InfinitiBit Ltd.</strong>, specializing in high-performance agentic AI frameworks. With a background as a Candidate Master on Codeforces and 3+ years of engineering experience, I bridge the gap between efficient systems and scalable applications. I am currently working on <strong>GraphBit</strong>, an open-source AI agent framework.
+  I am a Software Engineer at <strong>Optimizely</strong>, working on their core AI product <strong>OPAL</strong>. With a background as a Candidate Master on Codeforces and 3+ years of engineering experience, I bridge the gap between efficient systems and scalable applications.
 </p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tanimahossain&label=Profile%20views&color=0e75b6&style=flat" alt="tanimahossain" /> 
 </p>
 
-- 🔭 I’m currently working on **[GraphBit](https://github.com/InfinitiBit/graphbit)**
+- 🔭 I’m currently working on **[Opal](https://www.optimizely.com/ai/)**
 - 🌱 I’m currently pursuing my **Master's in Computer Science & Engineering** (Major in Data Science)
-- 💬 Ask me about **AI Agents, Rust/Python interoperability, or Competitive Programming**
+- 💬 Ask me about **AI Agents, or Competitive Programming**
 - 📫 How to reach me: **tanimahossain01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
